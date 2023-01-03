@@ -8,6 +8,6 @@
 
 # Welcome to ENTR-451
 
-This is the beginnging
+This is the beginning
 
 This is an example of a GitHub repository.
